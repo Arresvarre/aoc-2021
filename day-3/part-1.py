@@ -14,6 +14,7 @@ for a in input:
         b += 1
 gamma=''
 epsilon=''
+print(arr)
 for j in arr:
     if j > 1:
         gamma += "1"
